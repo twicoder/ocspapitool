@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ocspapitool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ocspapitool_jar</output-path>
+    <root id="archive" name="ocspapitool.jar">
+      <element id="module-output" name="ocspapitool" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/javax.json-1.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
